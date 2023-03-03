@@ -59,7 +59,6 @@ while True:
         for i in ['cómo estas', 'como estas']:
             if i  in comando:
                 say('Estoy bien gracias')
-                break
 
         for i in ['Adios']:
             if i  in comando:
